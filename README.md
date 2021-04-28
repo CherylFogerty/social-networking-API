@@ -6,6 +6,9 @@ WHEN I open API GET routes in Insomnia Core for users and thoughts
 the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 I am able to successfully create, update, and delete users and thoughts in my database.
+
+https://youtu.be/ghRUbm2CHIo
+
 My video with the following format...
  1. Starting program, NPM Start.
  2. "Get" ALL User
@@ -16,3 +19,4 @@ My video with the following format...
  7. Update User Profile (Put)
  8. Delete User
  9. Delete User Thought
+
